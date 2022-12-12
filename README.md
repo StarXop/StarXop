@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StarXop
+- 👋 Hi, I’m Shrikant Jaiwal People call Star-Xop
 - 👀 I’m interested in development, cricket and travelling 
 - 🌱 I’m currently learning Full Stack development 
 - 💞️  ...
